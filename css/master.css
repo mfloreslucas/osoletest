@@ -1,0 +1,60 @@
+.semi-container{
+  width: 85%;
+}
+.letra-g{
+  font-size: 30px;
+  color: #0A247B;
+}
+.circle-icon {
+    color: darkturquoise;
+    margin: 7px;
+    background: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 10px;
+    border: 1.5px solid #0A247B;
+}
+.bg-whiteyellow{
+  background: rgba(130, 255, 202, 0.3);
+}
+#navigator a:hover{
+  border-bottom: 2px solid darkturquoise;
+}
+#navigator .corners{
+  border-radius: 50%;
+  background: white;
+  border: 1px solid #a3a3a3;
+  padding: 2px;
+  padding-left:5px;
+  width: 30px;
+  height: 30px;
+}
+#navigator .circle-random{
+  background: darkturquoise;
+  color:white;
+  padding:10px;
+  border-radius: 50%;
+}
+#footer{
+  background: #002502;
+  height: 12em;
+}
+#footer .letra-b{
+  font-size:14px;
+  color:darkturquoise;
+}
+#footer .contenido{
+  font-size: 12px;
+  color: white;
+}
+#footer .letra-c{
+  font-size: 7px;
+}
+/* Pisando bootstrap */
+.semi-container{
+  margin: 0 auto!important;
+}

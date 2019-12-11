@@ -1,0 +1,59 @@
+#cartas .bg-grey{
+  background: #F0F0F0;
+  width: 100%;
+  padding: 5em 5em;
+  height: 66em;
+}
+#cartas img{
+  width: 700px;
+  height: 500px;
+}
+#cartas .box-1{
+  background: url("https://ichef.bbci.co.uk/news/624/cpsprodpb/17262/production/_108981849_gettyimages-911727186.jpg");
+  background-repeat: no-repeat;
+  height: 450px;
+  width: 650px;
+}
+#cartas .txt{
+  z-index: 2;
+  position: relative;
+  left: 30em;
+  top: 3em;
+  background-color:white;
+  width: 450px;
+  height: 300px;
+  padding: 2em;
+}
+#cartas .certified img{
+  width: 60px;
+  height: 60px;
+}
+#cartas .box-2{
+  background: url("https://fuertesconleche.com/wp-content/uploads/2018/03/tipos-de-leche-v3.jpg");
+  height:450px;
+  width: 650px;
+}
+#cartas .txt-2{
+  z-index: 2;
+  position: relative;
+  right: 20em;
+  top: 4em;
+  background-color:white;
+  width: 450px;
+  height: 310px;
+  padding: 2em;
+}
+#semi-footer .title{
+  color: darkturquoise;
+  font-size: 25px;
+}
+#semi-footer .descripcion{
+  color: #0A247B;
+}
+/* Pisando bootstrap */
+.carrousel-inner{
+  height: 26em!important;
+}
+.carrousel-item{
+  min-height: 26em!important;
+}
